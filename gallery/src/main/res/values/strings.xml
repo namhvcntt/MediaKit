@@ -1,0 +1,7 @@
+<resources>
+    <string name="no_permissions_read_storage">Not much to do in a gallery without accessing your storage</string>
+    <string name="no_permissions_write_storage">You can not get cropped image without write permission to your storage</string>
+
+    <string name="hidden">(hidden)</string>
+    <string name="crop_save">Save</string>
+</resources>
